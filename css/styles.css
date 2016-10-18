@@ -134,6 +134,13 @@ a:visited {
   height: 400px;
 }
 
+#tal-masica-cover {
+  background-image: url(http://i.imgur.com/wkRJr7k.jpg);
+}
+#tal-masica-card {
+  background-image: url(http://i.imgur.com/Nizjqhg.jpg);
+}
+
 #bruno-boehm-cover {
   background-image: url("http://i.imgur.com/V0xAVEs.jpg");
 }
